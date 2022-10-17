@@ -10,6 +10,13 @@
       }
     },
     {
+      "files": "*.html",
+      "options": {
+        "tabWidth": 2,
+        "useTabs": false
+      }
+    },
+    {
       "files": "*.sol",
       "options": {
         "tabWidth": 4,
